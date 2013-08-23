@@ -5,11 +5,7 @@ using System.Text;
 
 namespace ConsoleApplication1
 {
-    class Program
+    class Added
     {
-        static void Main(string[] args)
-        {
-            // And what?
-        }
     }
 }
