@@ -7,5 +7,6 @@ namespace ConsoleApplication1
 {
     class Added
     {
+        // This comment was added
     }
 }
